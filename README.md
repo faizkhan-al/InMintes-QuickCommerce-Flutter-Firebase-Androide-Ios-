@@ -42,7 +42,7 @@ I am continuously learning new things every day to improve my skills and build e
 
 ## 📱 App Interface & Flow
 
-| Home Screen | Cart & Checkout | The Print Store | Order Detail |
+| Home Screen | Cart & Checkout | Category Screen | Print Screen |
 | :---: | :---: | :---: | :---: |
 | <img src="HomeScreen.png" width="200"/> | <img src="CartScreen.png" width="200"/> | <img src="CategoryScreen.png" width="200"/> | <img src="PrintScreen.png" width="200"/> |
 
