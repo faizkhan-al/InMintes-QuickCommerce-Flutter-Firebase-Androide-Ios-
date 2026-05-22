@@ -44,7 +44,7 @@ I am continuously learning new things every day to improve my skills and build e
 
 | Home Screen | Cart & Checkout | The Print Store | Order Detail |
 | :---: | :---: | :---: | :---: |
-| <img src="[INSERT_HOME_SCREEN_URL]" width="200"/> | <img src="[INSERT_CART_SCREEN_URL]" width="200"/> | <img src="[INSERT_PRINT_SCREEN_URL]" width="200"/> | <img src="[INSERT_ORDER_SCREEN_URL]" width="200"/> |
+| <img src="HomeScreen.png" width="200"/> | <img src="CartScreen.png" width="200"/> | <img src="CategoryScreen.png" width="200"/> | <img src="PrintScreen.png" width="200"/> |
 
 ---
 
